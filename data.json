@@ -1,0 +1,16 @@
+[{
+    "name": "mert",
+    "age": 25,
+    "city": "istanbul",
+    "job": "developer",
+    "email":"merem@cmail.com",
+    "skills": ["python", "java", "c++", "native", "flutter", "dart"]
+
+},
+{
+    "name": "ali",
+    "age": 30,
+    "city": "ankara",
+    "job": "developer",
+    "email":"mdmmddm@kkffkf   "}
+]
